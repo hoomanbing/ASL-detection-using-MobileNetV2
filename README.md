@@ -9,8 +9,8 @@
 1. Data Samples
 ![Screenshot 2024-10-28 202422](https://github.com/user-attachments/assets/6bc2ae0b-b0d9-4ef4-abb4-5b81c602defd)
 
-2. Sample Distribution for each Class
+3. Sample Distribution for each Class
 ![__results___8_1](https://github.com/user-attachments/assets/b3a1e222-fbab-4073-bbc6-102abc2cb91d)
 
-3. Histogram Plot
+4. Histogram Plot
 ![__results___10_0](https://github.com/user-attachments/assets/15c38c33-fcab-4077-a4ad-68a70126d535)
