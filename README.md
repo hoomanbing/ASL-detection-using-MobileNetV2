@@ -3,7 +3,7 @@
 ## Dataset: https://www.kaggle.com/datasets/kapillondhe/american-sign-language/data
 
 ## Files
-1. ![ASL_final.ipynb](): ASL data preprocessing, data augmentation, and transfer learning using the MobileNetV2 model.
+1. ![ASL_final.ipynb](https://github.com/hoomanbing/ASL-detection-using-MobileNetV2/blob/main/asl-final.ipynb): ASL data preprocessing, data augmentation, and transfer learning using the MobileNetV2 model.
 
 ## Results
 1. Data Samples
